@@ -51,3 +51,5 @@ Facts about CSW's Involvement in Bitcoin
 ## Other links
 
 * [Deleted CSW LinkedIn page](https://archive.is/Q66Gl): **22 pages** long
+  https://patents.google.com/?inventor=%ED%81%AC%EB%A0%88%EC%9D%B4%EA%B7%B8+%EC%8A%A4%ED%8B%B0%EB%B8%90+%EB%9D%BC%EC%9D%B4%ED%8A%B8  
+  Fake patens.
